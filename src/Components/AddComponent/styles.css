@@ -1,0 +1,34 @@
+.add--container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 10%;
+    align-items: center;
+    width: 25%;
+    height: 25%;
+};
+
+.box {
+    font-size: 24px;
+}
+
+.add--task-button {
+    background: white;
+    font-size: 24px;
+    border: none;
+    width: 125px;
+}
+
+.box {
+    font-size: 24px;
+}
+
+.label-box {
+    font-size: 18px;
+    
+}
+
+.input-box {
+    font-size: 18px;
+}
